@@ -1,0 +1,17 @@
+/* style.css - Flappy Bird Clone */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #70c5ce;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+  background: #fff;
+  border: 2px solid #000;
+} 
